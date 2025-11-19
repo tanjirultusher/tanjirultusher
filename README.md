@@ -1,7 +1,6 @@
 ## About Me
 
-Hi there! I'm Tanjirul Alam, a passionate MERN Stack Developer with a strong interest in building efficient and scalable web applications. I also enjoy working with Data Analysis, exploring insights from data to solve real-world problems. I love learning new things and constantly improving myself to stay updated in the tech world.
-
+Hi, I'm Tanjirul Alam, a passionate MERN Stack Developer with a strong interest in building efficient and scalable web applications. I also enjoy working with Data Analysis, AI/ML, and Data Science, leveraging data for insights. I enjoy learning new things and constantly improving myself to stay ahead in tech.
 
 
 ## Tech Stack & Tools Overview
