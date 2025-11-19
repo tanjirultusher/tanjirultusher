@@ -1,9 +1,9 @@
-<h3>About Me</h3>
-<hr>
+## About Me
+
 Hi there! I'm Tanjirul Alam, a passionate MERN Stack Developer with a strong interest in building efficient and scalable web applications. I also enjoy working with Data Analysis, exploring insights from data to solve real-world problems. I love learning new things and constantly improving myself to stay updated in the tech world.
 
 
-<h3>Tech Stack & Tools Overview</h3>
+## Tech Stack & Tools Overview
 
 | Skills Overview | Technologies |
 |-----------------|--------------|
@@ -15,8 +15,11 @@ Hi there! I'm Tanjirul Alam, a passionate MERN Stack Developer with a strong int
 | **Version Control & Tools** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code) |
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanjirultusher&show_icons=true&locale=en&layout=compact" alt="tanjirultusher" /></p>
+## Github Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanjirultusher&show_icons=true&locale=en" alt="tanjirultusher" /></p>
+| Top Languages | GitHub Stats | GitHub Streak |
+|:---:|:---:|:---:|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanjirultusher&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanjirultusherl&theme=transparent&hide_border=true&include_all_commits=true&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanjirultusher&theme=transparent&hide_border=true) |
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanjirultusher&" alt="tanjirultusher" /></p>
+
+
