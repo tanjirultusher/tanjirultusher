@@ -1,6 +1,8 @@
 <h3>About Me</h3>
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Hi there! I'm Tanjirul Alam, a passionate MERN Stack Developer with a strong interest in building efficient and scalable web applications. I also enjoy working with Data Analysis, exploring insights from data to solve real-world problems. I love learning new things and constantly improving myself to stay updated in the tech world.
+
 
 <h3>Tech Stack & Tools Overview</h3>
 
@@ -12,3 +14,10 @@ Hi there! I'm Tanjirul Alam, a passionate MERN Stack Developer with a strong int
 | **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite) |
 | **AI/ML & Data Science** | ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-333333?style=flat&logo=scikitlearn) ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib) ![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn) ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy) |
 | **Version Control & Tools** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code) |
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanjirultusher&show_icons=true&locale=en&layout=compact" alt="tanjirultusher" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanjirultusher&show_icons=true&locale=en" alt="tanjirultusher" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanjirultusher&" alt="tanjirultusher" /></p>
