@@ -19,7 +19,7 @@ Hi there! I'm Tanjirul Alam, a passionate MERN Stack Developer with a strong int
 
 | Top Languages | GitHub Stats | GitHub Streak |
 |:---:|:---:|:---:|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanjirultusher&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanjirultusherl&theme=transparent&hide_border=true&include_all_commits=true&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanjirultusher&theme=transparent&hide_border=true) |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanjirultusher&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanjirultusher&theme=transparent&hide_border=true&include_all_commits=true&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanjirultusher&theme=transparent&hide_border=true) |
 
 
 
