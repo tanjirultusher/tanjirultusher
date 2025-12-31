@@ -15,7 +15,7 @@ Hi, I'm Tanjirul Alam, a passionate MERN Stack Developer with a strong interest 
 <p style="line-height:2px;">&nbsp;</p>
 
 ## Reach me out
-
+<p style="line-height:2px;">&nbsp;</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/tanjirultusher/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
