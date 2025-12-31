@@ -15,6 +15,12 @@ Hi, I'm Tanjirul Alam, a passionate MERN Stack Developer with a strong interest 
 | **Version Control & Tools** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code) |
 
 
+## Current overview  
+
+🌱 I’m learning – Next.js to strengthen my full-stack Development skills.   
+⚛️ I’m skilled in – React.js for building dynamic and scalable user interfaces.  
+👯 I’m looking – To collaborate on open source projects and contribute to the community. 
+
 
 ## Github Stats
 
