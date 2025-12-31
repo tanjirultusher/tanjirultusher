@@ -3,6 +3,29 @@
 Hi, I'm Tanjirul Alam, a passionate MERN Stack Developer with a strong interest in building efficient and scalable web applications. I also enjoy working with Data Analysis, AI/ML, and Data Science, leveraging data for insights. I enjoy learning new things and constantly improving myself to stay ahead in tech.
 
 
+
+## Current overview  
+
+🌱 I’m learning – Next.js to strengthen my full-stack Development skills.   
+⚛️ I’m skilled in – React.js for building dynamic and scalable user interfaces.  
+👯 I’m looking – To collaborate on open source projects and contribute to the community. 
+
+
+
+## Reach me out
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tanjirultusher/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/tanjirultusher06/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-0F172A?style=for-the-badge&logo=facebook&logoColor=1877F2"/>
+  </a>
+</p>
+
+
+
 ## Tech Stack & Tools Overview
 
 | Skills Overview | Technologies |
@@ -14,12 +37,6 @@ Hi, I'm Tanjirul Alam, a passionate MERN Stack Developer with a strong interest 
 | **AI/ML & Data Science** | ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-333333?style=flat&logo=scikitlearn) ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib) ![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn) ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy) |
 | **Version Control & Tools** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code) |
 
-
-## Current overview  
-
-🌱 I’m learning – Next.js to strengthen my full-stack Development skills.   
-⚛️ I’m skilled in – React.js for building dynamic and scalable user interfaces.  
-👯 I’m looking – To collaborate on open source projects and contribute to the community. 
 
 
 ## Github Stats
