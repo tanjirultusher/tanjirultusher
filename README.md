@@ -12,7 +12,7 @@ Hi, I'm Tanjirul Alam, a passionate MERN Stack Developer with a strong interest 
 - 📄 [Resume](https://drive.google.com/file/d/1l3sUR-D50e_EynryZTOkNLmf8buIQilE/view?usp=sharing)
 
 
-
+<p style="line-height:2px;">&nbsp;</p>
 
 ## Reach me out
 
@@ -26,7 +26,7 @@ Hi, I'm Tanjirul Alam, a passionate MERN Stack Developer with a strong interest 
   </a>
 </p>
 
-
+<p style="line-height:2px;">&nbsp;</p>
 
 ## Tech Stack & Tools Overview
 
@@ -39,7 +39,7 @@ Hi, I'm Tanjirul Alam, a passionate MERN Stack Developer with a strong interest 
 | **AI/ML & Data Science** | ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-333333?style=flat&logo=scikitlearn) ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib) ![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn) ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy) |
 | **Version Control & Tools** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code) |
 
-
+<p style="line-height:2px;">&nbsp;</p>
 
 ## Github Stats
 
