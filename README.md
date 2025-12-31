@@ -2,13 +2,15 @@
 
 Hi, I'm Tanjirul Alam, a passionate MERN Stack Developer with a strong interest in building efficient and scalable web applications. I also enjoy working with Data Analysis, AI/ML, and Data Science, leveraging data for insights. I enjoy learning new things and constantly improving myself to stay ahead in tech.
 
+<p style="line-height:2px;">&nbsp;</p>
 
+- 🌱 **Current overview:**  
+  - I’m learning – ***Next.js*** to strengthen my full-stack Development skills.  
+  - I’m skilled in – ***React.js*** for building dynamic and scalable user interfaces.
+  - I’m looking – To collaborate on open source projects and contribute to the community.
+- 📫 Email me : **tanjirultusher2030@gmail.com**  
+- 📄 [Resume](https://drive.google.com/file/d/1l3sUR-D50e_EynryZTOkNLmf8buIQilE/view?usp=sharing)
 
-## Current overview  
-
-🌱 I’m learning – Next.js to strengthen my full-stack Development skills.   
-⚛️ I’m skilled in – React.js for building dynamic and scalable user interfaces.  
-👯 I’m looking – To collaborate on open source projects and contribute to the community. 
 
 
 
