@@ -9,7 +9,6 @@ Hi, I'm Tanjirul Alam, a passionate MERN Stack Developer with a strong interest 
   - I’m skilled in – ***React.js*** for building dynamic and scalable user interfaces.
   - I’m looking – To collaborate on open source projects and contribute to the community.
 - 📫 Email me : **tanjirultusher2030@gmail.com**  
-- 📄 [Resume](https://drive.google.com/file/d/1l3sUR-D50e_EynryZTOkNLmf8buIQilE/view?usp=sharing)
 
 
 <p style="line-height:2px;">&nbsp;</p>
